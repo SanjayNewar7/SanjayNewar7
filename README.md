@@ -4,6 +4,20 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+![Profile Details](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+
+![Repos Per Language](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+
+![Most Used Language](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+
+![Stats](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/3-stats.svg)
+
+![Productive Time](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
+
+---
+
 ## 🧠 About Me
 
 - 🎓 BCA Graduate
@@ -52,39 +66,25 @@
 
 ## 📌 Featured Projects
 
-### 📱 Aakriti
-A creative drawing & productivity app built using Flutter.
+### 📱 Aakriti  
+Creative drawing & productivity app built using Flutter.
 
-### 🏛 Awaz
-Community-driven public grievance platform empowering citizens to raise issues digitally.
+### 🏛 Awaz  
+Community-driven public grievance platform.
 
-### 💼 Employee Management System
-Java-based system for managing employee records and operations.
+### 💼 Employee Management System  
+Java-based employee management solution.
 
-### 💰 HisabKitab
+### 💰 HisabKitab  
 Financial tracking and management application.
-
----
-
-## 📊 GitHub Statistics
-
-![Profile Details](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-
-![Repos Per Language](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-
-![Most Used Language](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-
-![Stats](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/3-stats.svg)
-
-![Productive Time](https://raw.githubusercontent.com/SanjayNewar7/SanjayNewar7/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
 
 ---
 
 ## 📈 Current Focus
 
-- 🔥 Improving system design thinking
-- 📱 Scaling Android apps with better architecture
-- 🌍 Preparing for international Master's opportunities
+- 🔥 System design improvement
+- 📱 Scalable Android architecture
+- 🌍 Preparing for Master's abroad
 - 🚀 Building impactful Nepal-focused tech solutions
 
 ---
