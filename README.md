@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🎓 BCA Graduate (CGPA: 3.55)
+- 🎓 BCA Graduate
 - 📱 Android Developer (Java, SQLite)
 - 🌐 Full Stack Learner (Laravel, PHP, JavaScript)
 - 🎨 Professional Graphic Designer
