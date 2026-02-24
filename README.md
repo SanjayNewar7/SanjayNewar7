@@ -92,8 +92,8 @@ Financial tracking and management application.
 ## 🤝 Connect With Me
 
 - 🌐 GitHub: https://github.com/SanjayNewar7
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add professional email)
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjayarajbhandari/
+- 📧 Email: Sanjaynewar007@gmail.com
 
 ---
 
